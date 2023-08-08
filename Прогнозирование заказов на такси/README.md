@@ -6,3 +6,4 @@
 Значение метрики RMSE на тестовой выборке должно быть не больше 48.
 ## Используемые инструменты
 Pandas, matplotlib, sklearn, CatBoostRegressor, LGBMRegressor, seasonal_decompose, statsmodels
+## Статус - выполнен
