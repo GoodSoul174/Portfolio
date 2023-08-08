@@ -5,3 +5,4 @@
 Построить модель, которая умеет определять стоимость автомобиля.
 ## Используемые инструменты
 Pandas, matplotlib, seaborn, OrdinalEncoder, sklearn, CatBoostRegressor, LGBMRegressor, GridSearchCV, time
+## Статус - выполнен
